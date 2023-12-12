@@ -1,0 +1,244 @@
+PMID- 37586309
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231003
+LR  - 20231003
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 178
+DP  - 2023 Oct
+TI  - Machine learning approaches for frailty detection, prediction and classification 
+      in elderly people: A systematic review.
+PG  - 105172
+LID - S1386-5056(23)00190-9 [pii]
+LID - 10.1016/j.ijmedinf.2023.105172 [doi]
+AB  - BACKGROUND: Frailty in older people is a syndrome related to aging that is 
+      becoming increasingly common and problematic as the average age of the world 
+      population increases. Detecting frailty in its early stages or, even better, 
+      predicting its appearance can greatly benefit health in later years of life and 
+      save the healthcare system from high costs. Machine Learning models fit the need 
+      to develop a tool for supporting medical decision-making in detecting or 
+      predicting frailty. METHODS: In this review, we followed the PRISMA methodology 
+      to conduct a systematic search of the most relevant Machine Learning models that 
+      have been developed so far in the context of frailty. We selected 41 publications 
+      and compared them according to their purpose, the type of dataset used, the 
+      target variables, and the results they obtained, highlighting their shortcomings 
+      and strengths. RESULTS: The variety of frailty definitions allows many problems 
+      to fall into this field, and it is often challenging to compare results due to 
+      the differences in target variables. The data types can be divided into gait 
+      data, usually collected with sensors, and medical records, often in the context 
+      of aging studies. The most common algorithms are well-known models available from 
+      every Machine Learning library. Only one study developed a new framework for 
+      frailty classification, and only two considered Explainability. CONCLUSIONS: This 
+      review highlights some gaps in the field of Machine Learning applied to the 
+      assessment and prediction of frailty, such as the need for a universal 
+      quantitative definition. It emphasizes the need for close collaboration between 
+      medical professionals and data scientists to unlock the potential of data 
+      collected in hospital and clinical settings. As a suggestion for future work, the 
+      area of Explainability, which is crucial for models in medicine and health care, 
+      was considered in very few studies.
+CI  - Copyright © 2023 Elsevier B.V. All rights reserved.
+FAU - Leghissa, Matteo
+AU  - Leghissa M
+AD  - Universidad Politécnica de Madrid, Av. Complutense, 30, 28040, Madrid, Spain. 
+      Electronic address: matteo.leg@upm.es.
+FAU - Carrera, Álvaro
+AU  - Carrera Á
+AD  - Universidad Politécnica de Madrid, Av. Complutense, 30, 28040, Madrid, Spain. 
+      Electronic address: a.carrera@upm.es.
+FAU - Iglesias, Carlos A
+AU  - Iglesias CA
+AD  - Universidad Politécnica de Madrid, Av. Complutense, 30, 28040, Madrid, Spain. 
+      Electronic address: carlosangel.iglesias@upm.es.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PT  - Systematic Review
+DEP - 20230808
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Humans
+MH  - Aged
+MH  - *Frailty/diagnosis
+MH  - Machine Learning
+MH  - Algorithms
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Cognitive frailty
+OT  - Elderly
+OT  - Frailty
+OT  - Frailty index
+OT  - Fried frailty phenotype
+OT  - Machine learning
+OT  - Systematic review
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/08/17 00:42
+MHDA- 2023/10/03 06:46
+CRDT- 2023/08/16 18:08
+PHST- 2023/06/14 00:00 [received]
+PHST- 2023/07/24 00:00 [revised]
+PHST- 2023/07/31 00:00 [accepted]
+PHST- 2023/10/03 06:46 [medline]
+PHST- 2023/08/17 00:42 [pubmed]
+PHST- 2023/08/16 18:08 [entrez]
+AID - S1386-5056(23)00190-9 [pii]
+AID - 10.1016/j.ijmedinf.2023.105172 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2023 Oct;178:105172. doi: 10.1016/j.ijmedinf.2023.105172. Epub 
+      2023 Aug 8.
+
+PMID- 37862082
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231101
+LR  - 20231106
+IS  - 1438-8871 (Electronic)
+IS  - 1439-4456 (Print)
+IS  - 1438-8871 (Linking)
+VI  - 25
+DP  - 2023 Oct 20
+TI  - Use of Artificial Intelligence in the Identification and Diagnosis of Frailty 
+      Syndrome in Older Adults: Scoping Review.
+PG  - e47346
+LID - 10.2196/47346 [doi]
+LID - e47346
+AB  - BACKGROUND: Frailty syndrome (FS) is one of the most common noncommunicable 
+      diseases, which is associated with lower physical and mental capacities in older 
+      adults. FS diagnosis is mostly focused on biological variables; however, it is 
+      likely that this diagnosis could fail owing to the high biological variability in 
+      this syndrome. Therefore, artificial intelligence (AI) could be a potential 
+      strategy to identify and diagnose this complex and multifactorial geriatric 
+      syndrome. OBJECTIVE: The objective of this scoping review was to analyze the 
+      existing scientific evidence on the use of AI for the identification and 
+      diagnosis of FS in older adults, as well as to identify which model provides 
+      enhanced accuracy, sensitivity, specificity, and area under the curve (AUC). 
+      METHODS: A search was conducted using PRISMA-ScR (Preferred Reporting Items for 
+      Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines on 
+      various databases: PubMed, Web of Science, Scopus, and Google Scholar. The search 
+      strategy followed Population/Problem, Intervention, Comparison, and Outcome 
+      (PICO) criteria with the population being older adults; intervention being AI; 
+      comparison being compared or not to other diagnostic methods; and outcome being 
+      FS with reported sensitivity, specificity, accuracy, or AUC values. The results 
+      were synthesized through information extraction and are presented in tables. 
+      RESULTS: We identified 26 studies that met the inclusion criteria, 6 of which had 
+      a data set over 2000 and 3 with data sets below 100. Machine learning was the 
+      most widely used type of AI, employed in 18 studies. Moreover, of the 26 included 
+      studies, 9 used clinical data, with clinical histories being the most frequently 
+      used data type in this category. The remaining 17 studies used nonclinical data, 
+      most frequently involving activity monitoring using an inertial sensor in 
+      clinical and nonclinical contexts. Regarding the performance of each AI model, 10 
+      studies achieved a value of precision, sensitivity, specificity, or AUC ≥90. 
+      CONCLUSIONS: The findings of this scoping review clarify the overall status of 
+      recent studies using AI to identify and diagnose FS. Moreover, the findings show 
+      that the combined use of AI using clinical data along with nonclinical 
+      information such as the kinematics of inertial sensors that monitor activities in 
+      a nonclinical context could be an appropriate tool for the identification and 
+      diagnosis of FS. Nevertheless, some possible limitations of the evidence included 
+      in the review could be small sample sizes, heterogeneity of study designs, and 
+      lack of standardization in the AI models and diagnostic criteria used across 
+      studies. Future research is needed to validate AI systems with diverse data 
+      sources for diagnosing FS. AI should be used as a decision support tool for 
+      identifying FS, with data quality and privacy addressed, and the tool should be 
+      regularly monitored for performance after being integrated in clinical practice.
+CI  - ©Daniel Velazquez-Diaz, Juan E Arco, Andres Ortiz, Verónica Pérez-Cabezas, David 
+      Lucena-Anton, Jose A Moral-Munoz, Alejandro Galán-Mercant. Originally published 
+      in the Journal of Medical Internet Research (https://www.jmir.org), 20.10.2023.
+FAU - Velazquez-Diaz, Daniel
+AU  - Velazquez-Diaz D
+AUID- ORCID: 0000-0001-6270-9208
+AD  - ExPhy Research Group, Department of Physical Education, Faculty of Education 
+      Sciences, University of Cadiz, Cádiz, Spain.
+AD  - Advent Health Research Institute, Neuroscience Institute, Orlando, FL, United 
+      States.
+FAU - Arco, Juan E
+AU  - Arco JE
+AUID- ORCID: 0000-0002-5896-4975
+AD  - Department of Communications Engineering, University of Malaga, Málaga, Spain.
+AD  - Andalusian Research Institute in Data Science and Computational Intelligence, 
+      Granada, Spain.
+AD  - Department of Signal Theory, Networking and Communications, University of 
+      Granada, Granada, Spain.
+FAU - Ortiz, Andres
+AU  - Ortiz A
+AUID- ORCID: 0000-0003-2690-1926
+AD  - Department of Communications Engineering, University of Malaga, Málaga, Spain.
+AD  - Andalusian Research Institute in Data Science and Computational Intelligence, 
+      Granada, Spain.
+FAU - Pérez-Cabezas, Verónica
+AU  - Pérez-Cabezas V
+AUID- ORCID: 0000-0002-3896-357X
+AD  - MOVE-IT Research Group, Department of Nursing and Physiotherapy, Faculty of 
+      Health Sciences, University of Cádiz, Cádiz, Spain.
+AD  - Biomedical Research and Innovation Institute of Cádiz, Cádiz, Spain.
+FAU - Lucena-Anton, David
+AU  - Lucena-Anton D
+AUID- ORCID: 0000-0003-2441-5342
+AD  - Biomedical Research and Innovation Institute of Cádiz, Cádiz, Spain.
+AD  - Department of Nursing and Physiotherapy, Faculty of Nursing and Physiotherapy, 
+      University of Cadiz, Cádiz, Spain.
+FAU - Moral-Munoz, Jose A
+AU  - Moral-Munoz JA
+AUID- ORCID: 0000-0002-6465-982X
+AD  - Biomedical Research and Innovation Institute of Cádiz, Cádiz, Spain.
+AD  - Department of Nursing and Physiotherapy, Faculty of Nursing and Physiotherapy, 
+      University of Cadiz, Cádiz, Spain.
+FAU - Galán-Mercant, Alejandro
+AU  - Galán-Mercant A
+AUID- ORCID: 0000-0003-3581-0372
+AD  - MOVE-IT Research Group, Department of Nursing and Physiotherapy, Faculty of 
+      Health Sciences, University of Cádiz, Cádiz, Spain.
+AD  - Biomedical Research and Innovation Institute of Cádiz, Cádiz, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PT  - Systematic Review
+DEP - 20231020
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Humans
+MH  - Aged
+MH  - *Artificial Intelligence
+MH  - Frail Elderly
+MH  - *Frailty
+MH  - Machine Learning
+MH  - Area Under Curve
+PMC - PMC10625070
+OTO - NOTNLM
+OT  - accuracy
+OT  - aging
+OT  - artificial intelligence
+OT  - biological variability
+OT  - detection
+OT  - diagnosis
+OT  - frail older adult
+OT  - frailty
+OT  - identification
+OT  - older adults
+OT  - review
+OT  - screening
+OT  - sensitivity
+OT  - tool
+COIS- Conflicts of Interest: None declared.
+EDAT- 2023/10/20 12:43
+MHDA- 2023/11/01 12:44
+CRDT- 2023/10/20 11:54
+PHST- 2023/03/17 00:00 [received]
+PHST- 2023/07/27 00:00 [accepted]
+PHST- 2023/05/09 00:00 [revised]
+PHST- 2023/11/01 12:44 [medline]
+PHST- 2023/10/20 12:43 [pubmed]
+PHST- 2023/10/20 11:54 [entrez]
+AID - v25i1e47346 [pii]
+AID - 10.2196/47346 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2023 Oct 20;25:e47346. doi: 10.2196/47346.
